@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="restapp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/restapp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jmx_prometheus_javaagent-0.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/prometheus/jmx_prometheus_javaagent-0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
